@@ -8,5 +8,3 @@ This work uses data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI
 2. After approval, download the required MRI scans and metadata for ADNI1/ADNI2/ADNI3 (as used in the paper).
 3. Place the downloaded files in the directory structure shown below.
 
-### Expected directory structure
-We assume the following local layout (paths can be changed via `--data_root` / config):
